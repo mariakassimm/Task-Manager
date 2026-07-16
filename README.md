@@ -1,8 +1,8 @@
-# 📝 Task Manager
+#  Task Manager
 
 A modern and responsive Task Manager web application built using HTML, CSS, and JavaScript. It helps users organize daily tasks with a clean interface and stores data using Local Storage, so tasks remain available even after refreshing the page.
 
-## 🚀 Live Demo
+##  Live Demo
 
 https://task-manager-eight-kappa-10.vercel.app
 
@@ -10,7 +10,7 @@ https://task-manager-eight-kappa-10.vercel.app
 
 https://github.com/mariakassimm/Task-Manager
 
-## ✨ Features
+##  Features
 
 - Add new tasks
 - Edit existing tasks
@@ -24,7 +24,7 @@ https://github.com/mariakassimm/Task-Manager
 - Responsive design
 - Local Storage support
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
@@ -32,7 +32,7 @@ https://github.com/mariakassimm/Task-Manager
 - Local Storage
 - Vercel
 
-## 📂 How to Run
+##  How to Run
 
 1. Clone the repository
 
